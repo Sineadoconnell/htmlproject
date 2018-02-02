@@ -8,6 +8,13 @@
         
          <script src"https://ajax.googleapis.com/ajax/libs/jquery/3.2.1./jquery.min.js"></script>
       <script type= "text/javascrpit" src="cost_calc.js"><></script>
+      <style>
+        body{background-color: white;}
+        h1{color:Purple;
+        font-family:Times;}
+     p   {color: black;}
+    </style>
+      
       </head>
       
 

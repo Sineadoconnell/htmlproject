@@ -1,4 +1,5 @@
 /*global $ */
+
 function calcSub(){
     
     var argSubTotal;
@@ -14,15 +15,16 @@ function calcSub(){
 }
 function display(parm1){
     
-    document.getElementById("subtotal").value = parm1;
+     document.getElementById("subtotal").value = parm1;
      document.getElementById("total").value = parm1;
-     enablebtnProceed();
+     
+     enablebtnProceed(); 
      
 }
 function enablebtnProceed(){
     $("btnProceed").prop("disabled", false);
     
 }
-function enablebtnProceed(){
+function disablebtnProceed(){
     $("btnProceed").prop("disabled", true);
 }

@@ -6,14 +6,9 @@
         
         <!--jQuery--->
         
-         <script src"https://ajax.googleapis.com/ajax/libs/jquery/3.2.1./jquery.min.js"></script>
-      <script type= "text/javascrpit" src="cost_calc.js"><></script>
-      <style>
-        body{background-color: white;}
-        h1{color:Purple;
-        font-family:Times;}
-     p   {color: black;}
-    </style>
+         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+         <script type= "text/javascript" src="cost_calc.js"></script>
+     
       
       </head>
       
@@ -24,16 +19,16 @@
           </br>
           <form method="POST" action ="Ebus2.php">
           
-          <label for = "Salesforce">
+          <label for = "salesforce">
         
-              <input type= "radio" id= "salesforce" name="product" onClick="disablebtnProceed()"/>
-           Salesforce @ $10
-              
+              <input type="radio" id="salesforce" name="product" onClick="enablebtnProceed()"/>
+           Salesforce @ $100
           </label>
+          
           </br>
-           <label for = "AWS">
-    
-              <input type= "radio" id= "AWS" name="product"onClick="disablebtnProceed()"/>
+          
+           <label for = "aws">
+              <input type="radio" id="aws" name="product" onClick="enablebtnProceed()"/>
            AWS @ $300
            </label>
                     </br>
@@ -42,25 +37,25 @@
           
           <label for= "subtotal">
               Sub Total
-              <input type "text" id= "subtotal" value="0.00" readonly/>
+              <input type="text" id="subtotal" value="0.00" readonly/>
 
           </label>
           </br>
-          <label for= "total">
+          <label for="total">
               Total
-              <input type "text" id= "subtotal" value="0.00" readonly/>
+              <input type="text" id="total" value="0.00" readonly/>
               </label>
               
               </br>
               
-              <button type="submit" id="btnproceed" diasabled>Add to Shopping Cart</button>
+              <button type="submit" id="btnProceed" disabled>Add to Shopping Cart</button>
     
      </form>
               
               
               </br>
               <button onClick="calcSub()"> Calculate Cost</button>
-              <a role=-"button" href= "Ebus1.php">Clear Choice</a>
+              <a role=="button" href="Ebus1.php">Clear Choice</a>
 
           
           

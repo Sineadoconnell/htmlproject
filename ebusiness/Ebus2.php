@@ -11,11 +11,11 @@
     
     <body>
         
-        <h4>Please enter your payment details.</h4>
+        <h4>Please enter your payment details</h4>
         
             <br />
             
-            <form method = "POST" action = "Ebus3.php">
+            <form method="POST" action="Ebus3.php">
                 
                 <label for="user_pin">
                      PIN 

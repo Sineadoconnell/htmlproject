@@ -8,6 +8,7 @@ session_start();
         <title>RECEIPT</title>
     
     
+    
     </head>
     <body>
         <h4>RECEIPT</h4>

@@ -1,0 +1,40 @@
+
+ul a{
+    text-decoration: none;
+    color: Purple;
+    
+}
+
+body {
+    background-image: url("https://i.ytimg.com/vi/bl1zq8EFQDQ/maxresdefault.jpg");
+   
+
+
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("img_girl.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+h1{
+    color:Purple;
+    font-family:Merienda;
+    font-style:italic;
+    
+}

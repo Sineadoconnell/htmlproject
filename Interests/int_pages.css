@@ -1,11 +1,31 @@
 #section1{
-    background: url("https://cdn.getyourguide.com/img/location_img-59-1224772867-148.jpg") no-repeat center fixed;
+    background: url("https://cdn.getyourguide.com/img/location_img-59-1224772867-148.jpg");
+     background-size: cover;
+   background-position: center;
+
+
+    height: 100%;
+    margin: 0;
 }
 #section2{
-    background: url("https://static.independent.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2017/10/29/11/istock-472957466.jpg") no-repeat center fixed;
+    background: url("https://static.independent.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2017/10/29/11/istock-472957466.jpg");
+ background-size: cover;
+   background-position: center;
+
+
+    height: 100%;
+    margin: 0;
+    
 }
 #section3{
-    background: url("https://d5qsyj6vaeh11.cloudfront.net/images/homepage/featured-module-hp/ioi/ioi_waw_us.jpg") no-repeat center fixed;
+    background: url("https://d5qsyj6vaeh11.cloudfront.net/images/homepage/featured-module-hp/ioi/ioi_waw_us.jpg");
+ background-size: cover;
+   background-position: center;
+
+
+    height: 100%;
+    margin: 0;
+    
 }
 
 .section{

@@ -26,8 +26,15 @@ session_start();
                      Name:
                 </label>
                 
-                <input type="text" id="user_name" placeholder="User Nmae" maxlength="25">
+                <input type="text" id="user_name" placeholder="Name" maxlength="25">
         
+                
+                </br>
+                <label for="user_email">
+                     Email Address:
+                </label>
+                
+                <input type="text" id="user_email" placeholder="Email Address" maxlength="25">
                 
                 
                 

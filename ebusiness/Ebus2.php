@@ -22,6 +22,16 @@ session_start();
             
             <form method="POST" action="Ebus3.php">
                 
+                <label for="user_name">
+                     Name:
+                </label>
+                
+                <input type="text" id="user_name" placeholder="User Nmae" maxlength="25">
+        
+                
+                
+                
+                
                 <label for="user_pin">
                      PIN 
                 </label>

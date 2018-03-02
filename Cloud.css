@@ -1,0 +1,70 @@
+.mainheading{
+    text-align: center;
+}
+ul a{
+    text-decoration: none;
+    color: Purple;
+    
+}
+
+body {
+    background-image: url("http://www.zyxassociates.com/wp-content/uploads/2016/11/shutterstock_154730771.jpg");
+   background-size: cover;
+   background-position: center;
+
+
+
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    
+
+    
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+h1{
+    color:Purple;
+    font-family:Merienda;
+    font-style:italic;
+    
+}

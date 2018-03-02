@@ -1,0 +1,29 @@
+
+ul a{
+    text-decoration: none;
+    color: Purple;
+    
+}
+
+body {
+    background-image: url("http://www.freebiesgallery.com/wp-content/uploads/2013/08/light-blue-background-3.jpg");
+   background-size: cover;
+   background-position: center;
+
+
+    height: 100%;
+    margin: 0;
+}
+
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+h1{
+    color:Purple;
+    font-family:Merienda;
+    font-style:italic;
+    
+}

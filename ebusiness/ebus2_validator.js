@@ -18,31 +18,21 @@ function validateDetails(){
         }
         
         
-         name = document.getElementById("user_name").value;
-    
-    if (name==""){
-        alert("Please enter your name");
-        }
-    else if (String(name).length<25){
-        alert("Please make sure your name is accurate");
-        }
-    else{
-        enablebtnPurchase();
-        }
-}
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         
 }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
 
 function enablebtnPurchase(){
      $('#btnPurchase').prop('disabled',false);

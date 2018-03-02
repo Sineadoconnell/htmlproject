@@ -1,7 +1,8 @@
 /* global $ */
 
 function validateDetails(){
-    
+    var name;
+    var email;
     var pin;
     
     pin = document.getElementById("user_pin").value;

@@ -24,7 +24,7 @@ session_start();
         
         <center>
         
-        <a href="homepage.html" class="btn btn-success"> Home</a>
+        <a href="../homepage.html" class="btn btn-success"> Home</a>
         </center>
     </body>
 </html>

@@ -36,7 +36,7 @@ session_start();
                 
                 <input type="text" id="user_email" placeholder="Email Address" maxlength="25">
                 
-                
+                </br>
                 
                 
                 <label for="user_pin">
@@ -51,7 +51,7 @@ session_start();
                 
             </form>
             
-            <br />
+            </br>
             
             <button onClick="validateDetails()">Validate</button>
         

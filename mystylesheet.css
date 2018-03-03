@@ -8,7 +8,7 @@ ul a{
 }
 
 body {
-    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/03/62/71/8157ab2c73bbe70.jpg");
+    background-image: url("http://www.martinmarcom.com/wp-content/uploads/2014/07/york-stripe-680x320.jpg");
    background-size: cover;
    background-position: center;
 
@@ -67,4 +67,21 @@ h1{
     font-family:Merienda;
     font-style:italic;
     
+}
+h2{
+    color:Purple;
+    font-family:Merienda;
+    font-style:italic;
+    
+}
+
+h3{
+    color:Black;
+    font-family:Merienda;
+    font-style:italic;
+    font-size: medium
+}
+
+img {
+    border-radius: 50%;
 }

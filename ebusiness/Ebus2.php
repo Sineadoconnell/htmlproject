@@ -7,6 +7,8 @@ session_start();
     <head>
         
         <title> Enter Details</title>
+        <link rel ="stylesheet" href="Ebus.css" type = "text/css" />
+        
         
         
         <!--jQuery-->

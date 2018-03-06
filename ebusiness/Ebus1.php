@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Select Product</title>
-        
+        <link rel ="stylesheet" href="Ebus.css" type = "text/css" />
         
         <script type="text/javascript" src="cost_calc.js"></script>
    

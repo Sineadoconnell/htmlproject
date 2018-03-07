@@ -6,6 +6,13 @@
         
         <script type="text/javascript" src="cost_calc.js"></script>
    
+   <!--jQuery-->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script type="text/javascript" src="cost_calc.js"></script>
+   
+   
+   
+   
       <style>
       
     </style>
@@ -16,7 +23,7 @@
        
        
         
-        <h1>Select a Product:</h1>
+        
         
           <form name="myForm" method="POST" onsubmit="return validateForm()" action="Ebus2.php">
         

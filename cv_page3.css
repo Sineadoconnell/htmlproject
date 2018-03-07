@@ -1,19 +1,19 @@
- ul a{
+ul a{
     text-decoration: none;
     color: Purple;
     
 }
 
 body {
-    background-image: url("http://www.freebiesgallery.com/wp-content/uploads/2013/08/light-blue-background-3.jpg");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQngou7C3wbNpgVCiqcZPYxpl1vfbBFEBm-b0kRNf1a48kADnNVVA");
    background-size: cover;
    background-position: center;
+
 
 
     height: 100%;
     margin: 0;
 }
-
 .bg {
     
 
@@ -56,4 +56,24 @@ li a:hover {
 .topnav {
     background-color:white;
     overflow: hidden;
+}
+
+h1{
+    color:Purple;
+    font-family:Merienda;
+    font-style:italic;
+    
+}
+h2{
+    color:Purple;
+    font-family:Merienda;
+    font-style:italic;
+    
+}
+
+h3{
+    color:Black;
+    font-family:Merienda;
+    font-style:italic;
+    font-size: medium
 }

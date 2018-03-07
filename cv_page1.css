@@ -6,19 +6,19 @@ ul a{
 }
 
 body {
-    background-image: url("https://i.ytimg.com/vi/bl1zq8EFQDQ/maxresdefault.jpg");
-   
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQngou7C3wbNpgVCiqcZPYxpl1vfbBFEBm-b0kRNf1a48kADnNVVA");
+   background-size: cover;
+   background-position: center;
+
 
 
     height: 100%;
     margin: 0;
 }
-
 .bg {
-    /* The image used */
-    background-image: url("img_girl.jpg");
+    
 
-    /* Full height */
+    
     height: 100%; 
 
     /* Center and scale the image nicely */
@@ -27,8 +27,35 @@ body {
     background-size: cover;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: pink;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+
+
 .topnav {
-    background-color: #333;
+    background-color:white;
     overflow: hidden;
 }
 
@@ -36,5 +63,25 @@ h1{
     color:Purple;
     font-family:Merienda;
     font-style:italic;
+    
+}
+h2{
+    color:Purple;
+    font-family:Merienda;
+    font-style:italic;
+    
+}
+
+h3{
+    color:Black;
+    font-family:Merienda;
+    font-style:italic;
+    font-size: medium
+}
+.right{
+    float:right;
+    width:700px;
+    height:2000px;
+    
     
 }

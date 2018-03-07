@@ -1,4 +1,3 @@
-
 ul a{
     text-decoration: none;
     color: Purple;
@@ -6,18 +5,56 @@ ul a{
 }
 
 body {
-    background-image: url("http://www.freebiesgallery.com/wp-content/uploads/2013/08/light-blue-background-3.jpg");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQngou7C3wbNpgVCiqcZPYxpl1vfbBFEBm-b0kRNf1a48kADnNVVA");
    background-size: cover;
    background-position: center;
+
 
 
     height: 100%;
     margin: 0;
 }
+.bg {
+    
+
+    
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: pink;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
 
 
 .topnav {
-    background-color: #333;
+    background-color:white;
     overflow: hidden;
 }
 
@@ -27,3 +64,34 @@ h1{
     font-style:italic;
     
 }
+h2{
+    color:Purple;
+    font-family:Merienda;
+    font-style:italic;
+    
+}
+
+h3{
+    color:Black;
+    font-family:Merienda;
+    font-style:italic;
+    font-size: medium
+}
+.details{
+    float:left;
+}
+.pic{
+    float:right;
+    width:400px;
+    height:700px;
+}
+.college{
+    float:left;
+}
+.pic2{
+     float:right;
+    width:400px;
+    height:700px;
+    
+}
+

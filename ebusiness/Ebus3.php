@@ -19,7 +19,7 @@ $email =$_REQUEST['email'];
   </style>
      </head>
    
-        
+        <!-- Creating a form to act as a receipt -->
         
         <center>
             <Stong><h1>Receipt</h1></Stong></center>
@@ -36,7 +36,7 @@ $email =$_REQUEST['email'];
         </div>
         </center>
         <center>
-          <a href="homepage.html" class="btn btn-success">Home</a>
+          <a href="../homepage.html" class="btn btn-success">Home</a>
         </center>
     </body>
     </html>

@@ -27,7 +27,7 @@ session_start();
             
             
             
-            
+            <!-- Creating a form to enter details -->
              <form name = "myForm"  method="POST" action="Ebus3.php">
                     <br>
                     <label for = "name">
@@ -49,7 +49,7 @@ session_start();
                
                 <br><br>
                 <label for="user_pin">
-                     PIN 
+                    
                 </label>
                 
                     <label for="user_pin"><strong>PIN:</strong></label>

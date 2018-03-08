@@ -24,7 +24,7 @@
        
         
         
-        
+        <!--- Creating my form to Select a product --->
           <form name="myForm" method="POST" onsubmit="return validateForm()" action="Ebus2.php">
         
             <h3>Select a product</h3>
@@ -99,10 +99,10 @@
             <button type="submit" id="btnProceed" disabled>Add to Shopping Cart</button>
             
         </form>
-        
+        <!-- Adding Buttons -->
         <br/>
-        <button onClick="calcSub()">Calculate Cost</button>
-        <a role="button" href="Ebus1.php">Clear Choice</a>
+        <button onClick="calcSub()" class="btn btn-success">Calculate Cost</button>
+        <a role="button" href="Ebus1.php"   class="btn btn-success">Clear Choice</a>
         
         </center>
        

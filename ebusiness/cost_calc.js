@@ -1,5 +1,5 @@
 /* global $ */
-
+  
     var argSubTotal;
     var argVat;
     var argDiscount;

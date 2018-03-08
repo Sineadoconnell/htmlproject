@@ -35,6 +35,8 @@ $email =$_REQUEST['email'];
         
         </div>
         </center>
-        
+        <center>
+          <a href="homepage.html" class="btn btn-success">Home</a>
+        </center>
     </body>
     </html>

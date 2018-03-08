@@ -30,5 +30,53 @@
 
 .section{
     text-align: center;
-    color: black;
+     color:Black;
+    font-family:Merienda;
+    font-style:italic;
+    font-size: large
 }
+.bg {
+    
+
+    
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: pink;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+
+
+.topnav {
+    background-color:white;
+    overflow: hidden;
+}
+
+
